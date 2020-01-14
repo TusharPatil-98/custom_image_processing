@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Battle Tank</folder>
+	<filename>7.jpg</filename>
+	<path>E:\Final Year Project Data\downloads\Battle Tank\7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Battle Tank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>39</ymin>
+			<xmax>194</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Battle Tank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>185</ymin>
+			<xmax>285</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>
